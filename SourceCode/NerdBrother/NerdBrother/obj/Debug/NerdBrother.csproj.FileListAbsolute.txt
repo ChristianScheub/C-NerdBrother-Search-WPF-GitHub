@@ -1,0 +1,98 @@
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\Webseiten1.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\Webseiten1.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\Webseiten1.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother - Kopie\NerdBrother\NerdBrother\obj\Debug\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Assitent.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\Assistant.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\Interop.SpeechLib.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.ResolveComReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Debug\MaterialSkin.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\Interop.SpeechLib.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.ResolveComReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\Search\DB_Zeugs\Webseiten1.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\NerdBrother Suche.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\NerdBrother Suche.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\NerdBrother Suche.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\NerdBrother Suche.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\NerdBrother Suche.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\IQToolkit.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\RestSharp.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Debug\RestSharp.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother Suche.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother Suche.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother Suche.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\NerdBrother Suche.pdb

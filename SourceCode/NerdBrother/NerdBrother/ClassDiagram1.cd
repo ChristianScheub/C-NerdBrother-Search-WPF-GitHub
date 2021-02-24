@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Suche.Abfrage1" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAABQAAAAAgCQBgAAIAAAAFABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Form1">
+    <Position X="5.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAABAAAACAAgACAAAYAAAAEEAAAQIAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Program" Collapsed="true">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Datenbank">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAAAAABACAAAAQAAAQAAAAAAAABAEQA=</HashCode>
+      <FileName>Search\DB_Zeugs\Datenbank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Webseiten1DataSet" Collapsed="true">
+    <Position X="12.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAA4AAAAZADBABQAAAAAgCQJgAAAMABAFABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.DevForm" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAAAAECCCAABAAABCAEAgCAAAAAIIAEAAEAQQAAAA=</HashCode>
+      <FileName>Search\devOp\Forms\DevForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Meta">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAQAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Search\devOp\logik\Meta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Main">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAAAAACAAAEAABCAAAAAAAAAA=</HashCode>
+      <FileName>Search\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.View">
+    <Position X="2.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ICACgAgAACAEEFAAAACAAAACAEgIAgAgYAAGACAEAAA=</HashCode>
+      <FileName>Search\View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Abfrage1TableAdapters.AllTableAdapter" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Abfrage1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Properties.Resources" Collapsed="true">
+    <Position X="12.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAgAAAAAAQABEAAAAQAAAAAAAAABAAIAEIE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAIAAAAAABAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Webseiten1DataSetTableAdapters.ArtTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Webseiten1DataSetTableAdapters.BeziehungTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Webseiten1DataSetTableAdapters.SitesTableAdapter" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suche.Webseiten1DataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAkIABABAEBAAAAMCAgAAACgAAAAASAgAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.DB_Zeugs.Webseiten1DataSet" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAA4AAAAZADBABQAAAAAgCQJgAAAMABAFAFBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.DB_Zeugs.Webseiten1DataSetTableAdapters.ArtTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.DB_Zeugs.Webseiten1DataSetTableAdapters.BeziehungTableAdapter" Collapsed="true">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.DB_Zeugs.Webseiten1DataSetTableAdapters.SitesTableAdapter" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.DB_Zeugs.Webseiten1DataSetTableAdapters.Abfrage2TableAdapter" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.DB_Zeugs.Webseiten1DataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAkIABABAEBAAAAMCAgAAACgAAAAASAgAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Log">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAABCAAUACAAAAIAAAEAAAAAAQAAA=</HashCode>
+      <FileName>Search\devOp\Forms\Log1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkS">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Search\devOp\logik\LinkS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebsiteScan">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Search\devOp\logik\WebsiteScan1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Search.devOp.logik.neuWebsite">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Search\devOp\logik\neuWebsite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NerdBrother.Assi.Befehle.ExternalInfo.web">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Search\devOp\logik\web.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

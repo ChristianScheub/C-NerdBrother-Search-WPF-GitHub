@@ -1,0 +1,1 @@
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Debug\Suche.csprojAssemblyReference.cache

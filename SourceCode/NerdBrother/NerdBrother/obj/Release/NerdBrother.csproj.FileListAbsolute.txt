@@ -1,0 +1,88 @@
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\Assistant.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\Webseiten1.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\NerdBrother.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\IQToolkit.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\RestSharp.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\bin\Release\RestSharp.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\Interop.SpeechLib.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.ResolveComReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.Assitent.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother\NerdBrother\NerdBrother\obj\Release\NerdBrother.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\Assistant.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\Webseiten1.mdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\IQToolkit.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\RestSharp.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\RestSharp.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Interop.SpeechLib.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.ResolveComReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.Assitent.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C#   NerdBrother (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Interop.SpeechLib.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.ResolveComReference.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Suche.DevForm.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Suche.Form1.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.Log.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\Suche.View.resources
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.exe.config
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.exe
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\NerdBrother Suche.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\IQToolkit.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\RestSharp.dll
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\HtmlAgilityPack.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\RestSharp.xml
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.exe.manifest
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.application
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csproj.CopyComplete
+C:\Users\chris\Documents\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\bin\Release\Search\DB_Zeugs\Webseiten1.mdb
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C#  NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother.csprojAssemblyReference.cache
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C#  NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.exe
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C#  NerdBrother Search (WPF)\SourceCode\NerdBrother\NerdBrother\obj\Release\NerdBrother Suche.pdb

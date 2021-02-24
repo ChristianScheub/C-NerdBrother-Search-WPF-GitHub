@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="NerdBrother.exe" version="1.0.0.11" publicKeyToken="767d427f928b29d5" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\IconSearchEngine.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="NerdBrother" version="1.0.0.0" publicKeyToken="767D427F928B29D5" language="neutral" processorArchitecture="msil" />
+    <commandLine file="NerdBrother.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Ebene der Windows-Benutzerkontensteuerung ändern möchten, ersetzen Sie den 
+          Knoten "requestedExecutionLevel" durch eine der folgenden Angaben.
+
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel level="highestAvailable" uiAccess="false" />
+
+         Wenn Sie Datei- und Registrierungsvirtualisierung für Abwärtskompatibilität 
+         verwenden möchten, löschen Sie den Knoten "requestedExecutionLevel".
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HtmlAgilityPack.dll" size="127488">
+      <assemblyIdentity name="HtmlAgilityPack" version="1.8.14.0" publicKeyToken="BD319B19EAF3B43A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gfW+hpxsyEW/28xCkm7WTdmcoYUVGElnN+ldxMiSGTs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IQToolkit.dll" size="51200">
+      <assemblyIdentity name="IQToolkit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>h2kD9Av5F2h5jjruWzNs2vB3/thkeLoK1RT/X+zP9XQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NerdBrother.exe" size="641504">
+      <assemblyIdentity name="NerdBrother" version="1.0.0.0" publicKeyToken="767D427F928B29D5" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rYWcD3xVJc4Rkq1jFzJj6qy2ZXNPnv+48VVtlzDTGe0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RestSharp.dll" size="167936">
+      <assemblyIdentity name="RestSharp" version="105.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WJufygC/0ScVUvow/cA7UlAaI5Q5U0nHI+aWyQlYrwc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Assistant.mdb" size="425984" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>y9kxDu8Fsr/8HIP0aOIp396BfHWW14RMynyi+0pYjc4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="NerdBrother.exe.config" size="757">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SsW2agyrF9AVKk/l7bYyDAVpjhj93MfiUnc95HJXImY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\IconSearchEngine.ico" size="105416">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xTxfRXh8VzRGUSv9hUadZM+IQltYZsi4R0eB/3/9JLM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Suche.csproj" size="8867">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pSKksb9CQSOnpqBGdVH9i1nHpOfj3FX8Hk2i03hYnqc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Webseiten1.mdb" size="1417216" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YTBDZl/Hi+HSya5AyYcj1afoqjRbcj2MvpK+WkXQACU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-8S6HLLQ\chris" issuerKeyHash="47eca688020f2cad6bc747ab8be90ecaaadc906b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pzQkdcaGjFsG4Q3miF5mN81jmM/J/3NVYOEDMtJAFLs=</DigestValue></Reference></SignedInfo><SignatureValue>BT2YFn31yqTwKIpx5bWWO0Jos00UxOqMUsMMUOhogsq5brGOpU0PT/gFznNUo6h8iyA1sWXU01C3BTTxuNiPO9GRS/BeQfVCDKPwVwIGB4o1DXB6WWqgjtLfGkudIOBe2NiJCF5e1mYr+w7DBL7MaqUKvaJXPMLIe0AreQa1QLk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>m7ys59U+1XCNJGhHtbXTCfpxImQnqtMblNt67qA3wAb7H+UE1RF8mNAwtzE0YPZn4x9xVk1xlAQLyEO+UrtN0z6S6w44Y6idlw8EbuCAeUQ26Q/8c0yY3zcTKBFfUJhMahOpnlnwQT27HJ8C/WNzM/eovVusRmZg/j3nCgw3qRk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bb1440d23203e1605573ffc9cf9863cd37665e88e60de1065b8c86c6752434a7" Description="" Url=""><as:assemblyIdentity name="NerdBrother.exe" version="1.0.0.11" publicKeyToken="767d427f928b29d5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-8S6HLLQ\chris</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1/JQYkoJzsH+QKbpNArDh4N0wLSySztwdPF0SrBv2tI=</DigestValue></Reference></SignedInfo><SignatureValue>ENYVGfnOX9C0KdYI1TM3w0+pXUQz5xDa57xXkFCtP5CR9FpASAQ5Nj9ncNIdj3TjBCzAzw5UK0R37KrSejiuhK/DUyuMIY2PfFZZ3YV8q2KpuSiqj0oepWaQxRenhae5tFPBsxC8sZYADXyZV0BAvnLbrculT/D5Meul/OGVuuc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>m7ys59U+1XCNJGhHtbXTCfpxImQnqtMblNt67qA3wAb7H+UE1RF8mNAwtzE0YPZn4x9xVk1xlAQLyEO+UrtN0z6S6w44Y6idlw8EbuCAeUQ26Q/8c0yY3zcTKBFfUJhMahOpnlnwQT27HJ8C/WNzM/eovVusRmZg/j3nCgw3qRk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQftMfydErSKpJz+6TnQZ1NzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADgAUwA2AEgATABMAFEAXABjAGgAcgBpAHMwHhcNMTkwMTI0MTc1MzQ3WhcNMjAwMTI0MjM1MzQ3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADgAUwA2AEgATABMAFEAXABjAGgAcgBpAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJu8rOfVPtVwjSRoR7W10wn6cSJkJ6rTG5Tbeu6gN8AG+x/lBNURfJjQMLcxNGD2Z+MfcVZNcZQEC8hDvlK7TdM+kusOOGOonZcPBG7ggHlENukP/HNMmN83EygRX1CYTGoTqZ5Z8EE9uxyfAv1jczP3qL1brEZmYP495woMN6kZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAJTDFPRlV6L1oExPXIzm8azywW8aUUIPVYm+6Z42eX1JE1MQEZfyU3OZn1jEDjvCswIKjlozkETXwQ9HDMherm2UEFKc1PSO5a2FcHqfqRfAv/9UIgrNUVUOIg2mCjbCUVosLDClAiXwOaab4KyB/H7RX3HYopVTA6yvu2MudU5s=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
