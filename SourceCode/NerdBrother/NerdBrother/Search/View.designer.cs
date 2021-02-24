@@ -38,12 +38,9 @@
             this.button_newSearch = new System.Windows.Forms.Button();
             this.button_settings = new System.Windows.Forms.Button();
             this.allBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.abfrage1 = new Suche.Abfrage1();
             this.allBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.allTableAdapter1 = new Suche.Abfrage1TableAdapters.AllTableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.allBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.abfrage1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.allBindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -56,7 +53,7 @@
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(965, 68);
+            this.label1.Size = new System.Drawing.Size(483, 33);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ihre Ergebisse zu der Suchanfrage: ";
             // 
@@ -66,10 +63,10 @@
             this.label_anfrage.Dock = System.Windows.Forms.DockStyle.Right;
             this.label_anfrage.Font = new System.Drawing.Font("Arial Black", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_anfrage.ForeColor = System.Drawing.Color.White;
-            this.label_anfrage.Location = new System.Drawing.Point(1255, 0);
+            this.label_anfrage.Location = new System.Drawing.Point(1349, 0);
             this.label_anfrage.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label_anfrage.Name = "label_anfrage";
-            this.label_anfrage.Size = new System.Drawing.Size(189, 68);
+            this.label_anfrage.Size = new System.Drawing.Size(95, 33);
             this.label_anfrage.TabIndex = 2;
             this.label_anfrage.Text = "label2";
             // 
@@ -142,19 +139,9 @@
             this.button_settings.UseVisualStyleBackColor = false;
             this.button_settings.Click += new System.EventHandler(this.button_settings_Click);
             // 
-            // abfrage1
-            // 
-            this.abfrage1.DataSetName = "Abfrage1";
-            this.abfrage1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
             // allBindingSource1
             // 
             this.allBindingSource1.DataMember = "All";
-            this.allBindingSource1.DataSource = this.abfrage1;
-            // 
-            // allTableAdapter1
-            // 
-            this.allTableAdapter1.ClearBeforeFill = true;
             // 
             // View
             // 
@@ -176,7 +163,6 @@
             this.Load += new System.EventHandler(this.View_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.allBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.abfrage1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.allBindingSource1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

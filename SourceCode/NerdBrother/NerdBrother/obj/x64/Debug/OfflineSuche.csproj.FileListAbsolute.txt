@@ -1,0 +1,29 @@
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Interop.SpeechLib.dll
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\OfflineSuche.csproj.ResolveComReference.cache
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\NerdBrother.Search.BigSync.Forms.BigSyncForm.resources
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Suche.DevForm.resources
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Suche.Form1.resources
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\NerdBrother.Log.resources
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Suche.View.resources
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\OfflineSuche.csproj.GenerateResource.cache
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\OfflineSuche.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\Search\DB_Zeugs\Webseiten1.mdb
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\Offline Suche.exe.config
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\Offline Suche.exe.manifest
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\Offline Suche.application
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\Offline Suche.exe
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\Offline Suche.pdb
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\IQToolkit.dll
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\RestSharp.dll
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\bin\x64\Debug\RestSharp.xml
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\NerdBrother.Properties.Resources.resources
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Offline Suche.TrustInfo.xml
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Offline Suche.exe.manifest
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Offline Suche.application
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\OfflineSuche.csproj.CopyComplete
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Offline Suche.exe
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\Offline Suche.pdb
+C:\Users\chris\Documents\SchuleDHBW\Schule\Programmiern\ProgrammBeispiele\C# NerdBrother Search (WPF) GitHub\SourceCode\NerdBrother\NerdBrother\obj\x64\Debug\OfflineSuche.csprojAssemblyReference.cache

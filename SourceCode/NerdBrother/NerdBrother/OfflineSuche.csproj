@@ -7,7 +7,7 @@
     <ProjectGuid>{55F04144-B5EC-41E7-A391-1607763C32F7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>NerdBrother</RootNamespace>
-    <AssemblyName>NerdBrother Suche</AssemblyName>
+    <AssemblyName>Offline Suche</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -200,7 +200,6 @@
       <DependentUpon>View.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
-    <None Include="NerdBrother_2_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
